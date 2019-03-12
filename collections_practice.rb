@@ -3,6 +3,8 @@ def sort_array_asc(num)
   n2
 end
 
+#some change
+
 def sort_array_desc(num)
   nu2 = num.sort.reverse
   nu2
