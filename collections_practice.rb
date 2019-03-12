@@ -1,5 +1,3 @@
-require 'pry'
-
 def sort_array_asc(num)
   n2 = num.to_a.sort
   n2
